@@ -7,7 +7,7 @@
 #### State Variable
 
 In App.jsx, set up a state variable called items using the useState hook.
-
+ 
 #### Form Component
 
 Create a Form component that contains an input field and a submit button. When the user submits the form, the handleSubmit function is called.
